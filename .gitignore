@@ -1,0 +1,6 @@
+themes/hugo-lamp/node_modules
+themes/hugo-lamp/yarn-error.log
+themes/hugo-lamp/npm-debug.log
+.sass-cache
+.DS_Store
+.eslintcache
