@@ -1,7 +1,7 @@
 +++
 author = "Abhinav Lal"
-cover = "/img/cover.jpg"
-date = "2018-06-08T11:11:55+00:00"
+cover = "/v1528563763/Battle_Royale_v01_006_007.jpg"
+date = "2018-06-08T11:11:55Z"
 draft = true
 tags = []
 title = "Battle Royale Discovery"
