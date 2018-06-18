@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: []
 pages:
+- content/post/hello-world.md
 - content/post/code-for-today.md
