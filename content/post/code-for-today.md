@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2015-10-01T13:44:34+00:00"
-draft = true
+draft = false
 tags = []
 title = "Code for today"
 
