@@ -2,7 +2,6 @@
 author = "Abhinav Lal"
 cover = "/v1528563763/Battle_Royale_v01_006_007.jpg"
 date = "2018-06-08T11:11:55Z"
-draft = true
 tags = []
 title = "Joy of Discovery"
 
