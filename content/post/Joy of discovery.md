@@ -21,4 +21,4 @@ Then search on Amazon led me to a movie based on the book with a quote on the pa
 
 Now, this is added to my must-watch list.
 
-The early days of the internet was filled with wondrous things to discover. Over years these accidental discovery happens less often. StumbleUpon is becoming part of mix this 30th June, end of an era I would say.
+The early days of the internet was filled with wondrous things to discover. Over years these accidental discovery happens less and less often. StumbleUpon is becoming part of mix this 30th June, end of an era I would say.
