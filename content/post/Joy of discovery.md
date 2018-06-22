@@ -19,6 +19,8 @@ Then search on Amazon led me to a movie based on the book with a quote on the pa
 
 > My favourite movie of the last 20 years…I wish I had made this movie.
 
+{{<youtube N0p1t-dC7Ko>}}
+
 Now, this is added to my must-watch list.
 
 The early days of the internet was filled with wondrous things to discover. Over years these accidental discovery happens less and less often. StumbleUpon is becoming part of mix this 30th June, end of an era I would say.
