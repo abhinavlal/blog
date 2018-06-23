@@ -2,6 +2,7 @@ baseURL = "https://abhinavlal.in/"
 languageCode = "en-us"
 title = "Abhinav Lal"
 theme = "kiera"
+Copyright = "2018 &copy; Abhinav Lal"
 
 [author]
     name = "Abhinav Lal"       #Author name
