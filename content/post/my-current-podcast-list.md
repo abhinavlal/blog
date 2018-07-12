@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2018-06-22T14:30:52+00:00"
-draft = false
 tags = []
 title = "My current podcast list"
 
@@ -22,4 +21,4 @@ Here is the list of my favourite podcasts currently -
 
 [Decoder Ring](http://www.slate.com/articles/podcasts/decoder_ring.html "Decoder Ring") - Lastly latest edition to my list Decoder ring explains a culture phenomenon and demystifies it. This podcast from slate only had two episodes so far, but I am early waiting for next one.
 
-Apart from this, I have a lot more podcast subscribed, but these enjoy the most.
+Apart from this, I have a lot more podcast subscribed, but these i enjoy the most.
