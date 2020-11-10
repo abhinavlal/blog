@@ -1,14 +1,12 @@
+Copyright = "2018 &copy; Abhinav Lal"
 baseURL = "https://abhinavlal.in/"
 languageCode = "en-us"
-title = "Abhinav Lal"
 theme = "kiera"
-Copyright = "2018 &copy; Abhinav Lal"
-
+title = "Abhinav Lal"
 [author]
-    name = "Abhinav Lal"       #Author name
-    github = "abhinavlal"     #Github username
-    twitter = "abhinavlal"    #Twitter username
-    instagram = "abhinavlal"  #Instagram username
-
+github = "abhinavlal"
+instagram = "abhinavlal"
+name = "Abhinav Lal"
+twitter = "abhinavlal"
 [params]
-    tagline = "Things i find interesting"
+tagline = "Things i find interesting"
