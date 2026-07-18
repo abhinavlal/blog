@@ -1,0 +1,40 @@
+name: Deploy blog
+
+# Builds the Hugo site and publishes it to the GitHub Pages repo
+# (abhinavlal/abhinavlal.github.io) whenever master changes.
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: deploy-blog
+      cancel-in-progress: true
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: false # theme is committed; the only submodule (public) uses SSH and is not needed to build
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.76.5'
+          extended: false # theme has no SCSS/SASS pipeline
+
+      - name: Build
+        run: hugo --gc
+
+      - name: Deploy to Pages repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: abhinavlal/abhinavlal.github.io
+          publish_branch: master
+          publish_dir: ./public
+          cname: abhinavlal.in
+          commit_message: 'Publish: ${{ github.event.head_commit.message }}'
